@@ -1,0 +1,17 @@
+li {
+  border: 1px solid #010101;
+  list-style: none;
+  padding: 20px;
+
+}
+
+input {
+  margin-right: 4vw;
+}
+
+.strikethrough {
+  text-decoration: line-through;
+}
+svg{
+  float: right;
+}
